@@ -1,0 +1,197 @@
+[
+    {
+        "disciplina": "Matemática Discreta",
+        "notas_bimestre": [
+            6,
+            7,
+            5,
+            6
+        ],
+        "frequencia_bimestre": [
+            34,
+            36,
+            35,
+            37
+        ],
+        "aulas_totais_bimestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 6.0,
+        "frequencia_total": "90.0%",
+        "nota_exame": 9.0,
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Algoritmos e Estruturas de Dados",
+        "notas_bimestre": [
+            8,
+            8,
+            9,
+            7
+        ],
+        "frequencia_bimestre": [
+            38,
+            39,
+            37,
+            40
+        ],
+        "aulas_totais_bimestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 8.0,
+        "frequencia_total": "96.2%",
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Engenharia de Software",
+        "notas_bimestre": [
+            4,
+            5,
+            6,
+            5
+        ],
+        "frequencia_bimestre": [
+            33,
+            35,
+            34,
+            36
+        ],
+        "aulas_totais_bimestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 5.0,
+        "frequencia_total": "86.2%",
+        "nota_exame": 3.0,
+        "status_aprovacao": "Reprovado"
+    },
+    {
+        "disciplina": "Banco de Dados",
+        "notas_bimestre": [
+            7,
+            7,
+            8,
+            8
+        ],
+        "frequencia_bimestre": [
+            39,
+            38,
+            40,
+            37
+        ],
+        "aulas_totais_bimestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 7.5,
+        "frequencia_total": "96.2%",
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Inteligência Artificial",
+        "notas_bimestre": [
+            9,
+            10,
+            9,
+            8
+        ],
+        "frequencia_bimestre": [
+            40,
+            39,
+            38,
+            40
+        ],
+        "aulas_totais_bimestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 9.0,
+        "frequencia_total": "98.1%",
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Redes de Computadores",
+        "notas_bimestre": [
+            6,
+            5,
+            7,
+            6
+        ],
+        "frequencia_bimestre": [
+            36,
+            37,
+            35,
+            38
+        ],
+        "aulas_totais_bimestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 6.0,
+        "frequencia_total": "91.2%",
+        "nota_exame": 5.0,
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Sistemas Operacionais",
+        "notas_bimestre": [
+            8,
+            9,
+            8,
+            9
+        ],
+        "frequencia_bimestre": [
+            38,
+            39,
+            40,
+            38
+        ],
+        "aulas_totais_bimestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 8.5,
+        "frequencia_total": "97.5%",
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Lógica de Programação",
+        "notas_bimestre": [
+            10,
+            9,
+            10,
+            9
+        ],
+        "frequencia_bimestre": [
+            40,
+            40,
+            39,
+            39
+        ],
+        "aulas_totais_bimestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 9.5,
+        "frequencia_total": "98.8%",
+        "status_aprovacao": "Aprovado"
+    }
+]

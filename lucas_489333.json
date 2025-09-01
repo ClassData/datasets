@@ -1,0 +1,194 @@
+[
+    {
+        "disciplina": "Matemática Discreta",
+        "notas_semestre": [
+            9.0,
+            9.5,
+            9.0,
+            10.0
+        ],
+        "frequencia_semestre": [
+            38,
+            39,
+            38,
+            37
+        ],
+        "aulas_totais_semestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 9.4,
+        "frequencia_total": "95.0%",
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Algoritmos e Estruturas de Dados",
+        "notas_semestre": [
+            10.0,
+            9.5,
+            10.0,
+            9.5
+        ],
+        "frequencia_semestre": [
+            25,
+            28,
+            26,
+            24
+        ],
+        "aulas_totais_semestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 9.8,
+        "frequencia_total": "64.4%",
+        "status_aprovacao": "Reprovado por Frequência"
+    },
+    {
+        "disciplina": "Engenharia de Software",
+        "notas_semestre": [
+            8.0,
+            7.5,
+            8.5,
+            8.0
+        ],
+        "frequencia_semestre": [
+            38,
+            37,
+            39,
+            38
+        ],
+        "aulas_totais_semestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 8.0,
+        "frequencia_total": "95.0%",
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Banco de Dados",
+        "notas_semestre": [
+            10.0,
+            10.0,
+            9.5,
+            9.8
+        ],
+        "frequencia_semestre": [
+            28,
+            27,
+            25,
+            26
+        ],
+        "aulas_totais_semestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 9.8,
+        "frequencia_total": "66.2%",
+        "status_aprovacao": "Reprovado por Frequência"
+    },
+    {
+        "disciplina": "Inteligência Artificial",
+        "notas_semestre": [
+            9.2,
+            9.5,
+            9.8,
+            9.0
+        ],
+        "frequencia_semestre": [
+            39,
+            38,
+            40,
+            39
+        ],
+        "aulas_totais_semestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 9.4,
+        "frequencia_total": "97.5%",
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Redes de Computadores",
+        "notas_semestre": [
+            9.5,
+            9.8,
+            9.0,
+            9.5
+        ],
+        "frequencia_semestre": [
+            37,
+            38,
+            39,
+            38
+        ],
+        "aulas_totais_semestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 9.5,
+        "frequencia_total": "95.0%",
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Sistemas Operacionais",
+        "notas_semestre": [
+            10.0,
+            9.5,
+            10.0,
+            9.8
+        ],
+        "frequencia_semestre": [
+            38,
+            37,
+            39,
+            40
+        ],
+        "aulas_totais_semestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 9.8,
+        "frequencia_total": "96.2%",
+        "status_aprovacao": "Aprovado"
+    },
+    {
+        "disciplina": "Lógica de Programação",
+        "notas_semestre": [
+            9.0,
+            8.5,
+            9.0,
+            8.8
+        ],
+        "frequencia_semestre": [
+            27,
+            29,
+            25,
+            28
+        ],
+        "aulas_totais_semestre": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "media_final": 8.8,
+        "frequencia_total": "68.1%",
+        "status_aprovacao": "Reprovado por Frequência"
+    }
+]
